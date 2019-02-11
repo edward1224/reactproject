@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "154668967750",
+    "firebase_url": "https://smart-tractor-224307.firebaseio.com",
+    "project_id": "smart-tractor-224307",
+    "storage_bucket": "smart-tractor-224307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154668967750:android:136edb62da4a4dc2",
+        "android_client_info": {
+          "package_name": "com.reactproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154668967750-1u2p4jei71l4at649kjve54rk2jhq077.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactproject",
+            "certificate_hash": "75d43c26d5e3bb9eb43eaf52682c729d222196e5"
+          }
+        },
+        {
+          "client_id": "154668967750-0fvipu1hjngo2850ipiuc60sk26f44h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6p-O3lD1xEg80TAugxGimfjLJZLexbHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154668967750-0fvipu1hjngo2850ipiuc60sk26f44h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
